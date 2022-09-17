@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* header section */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +39,8 @@
     margin-left: 25px;
 }
 
+/* end header section */
+
 body {
     background-color: #d9dcd6;
 }
@@ -61,6 +65,8 @@ p {
     background-position: center;
 }
 
+/* float selectors */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,11 +77,15 @@ p {
     margin-left: 25px;
 }
 
+/* content selector - used in links at top of site */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits section - for the benefits descriptions at the bottom of the site */
 
 .benefits {
     margin-right: 20px;
@@ -136,6 +146,8 @@ p {
     max-width: 150px;
 }
 
+/* end benefits section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -189,6 +201,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer section */
 
 .footer {
     padding: 30px;
