@@ -11,7 +11,7 @@ improve accessibility.
 
 ## Screenshot
 
-<img src="/Users/skipperthurman/bootcamp/module-1-challenge/module-1-challenge/Develop/assets/images/webpage-screenshot.html.png" alt="People meeting" title="Webpage screenshot">
+<img src="/Users/skipperthurman/bootcamp/module-1-challenge/module-1-challenge/Develop/assets/images/webpage-screenshot.png" alt="People meeting" title="Webpage screenshot">
 
 ## Links
 
