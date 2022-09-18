@@ -23,7 +23,7 @@ improve accessibility.
 Skipper Thurman
 email: slthurman01@gmail.com
 
-<a href="https://github.com/skip-thurm">Github Page</a>
+<a href="https://github.com/skip-thurm">Personal Github Page</a>
 
 ## License
 
