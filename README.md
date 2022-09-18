@@ -11,13 +11,18 @@ improve accessibility.
 
 ## Screenshot
 
+<img src="/Users/skipperthurman/bootcamp/module-1-challenge/module-1-challenge/Develop/assets/images/webpage-screenshot.html.png" alt="People meeting" title="Webpage screenshot">
+
 ## Links
+
+<a href="http://skip-thurm/module-1-challenge">Link to Page</a>
 
 ## Author
 
 Skipper Thurman
 email: slthurman01@gmail.com
-github: https://github.com/skip-thurm
+
+<a href="https://github.com/skip-thurm">Github Page</a>
 
 ## License
 
