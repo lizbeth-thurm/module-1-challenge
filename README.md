@@ -16,6 +16,7 @@ improve accessibility.
 ## Links
 
 <a href="https://skip-thurm.github.io/module-1-challenge/Develop/">Link to Deployed Page</a>
+
 <a href="https://github.com/skip-thurm/module-1-challenge">Link to Github Page with Code</a>
 
 ## Author
